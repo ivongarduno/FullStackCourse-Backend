@@ -1,0 +1,19 @@
+{
+  "name": "fullstackcourse-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivongarduno/FullStackCourse-Backend.git"
+  },
+  "author": "Blanca Ivon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivongarduno/FullStackCourse-Backend/issues"
+  },
+  "homepage": "https://github.com/ivongarduno/FullStackCourse-Backend#readme"
+}
